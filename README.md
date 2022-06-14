@@ -26,4 +26,9 @@
       <td>Jumper Wires</td>
       </tr>
   </tr>
+  <tr>
+      <td>6.</td>
+      <td>LCD Monitor</td>
+      </tr>
+  </tr>
   </table>
