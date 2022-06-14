@@ -1,4 +1,4 @@
-# Covid-19-Distance-Tracker
+# Covid-19-Social Distancing Device
 
 <p>Required Components in this Projects</p>
 <table>
