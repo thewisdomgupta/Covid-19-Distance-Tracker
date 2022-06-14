@@ -1,6 +1,5 @@
 # Covid-19-Distance-Tracker
 
-<img src="https://drive.google.com/file/d/1yn7mPxhH5REpcPzguiftvcIIkotjeI62/view?usp=sharing](https://hacksterio.s3.amazonaws.com/uploads/attachments/1091348/i1_bb_KdbQLrxqei.jpg" alt="Arduino Covid Project Setup">
 <p>Required Components in this Projects</p>
 <table>
   <tr>
