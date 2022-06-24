@@ -34,7 +34,10 @@
   </table>
   <hr>
   
-   <a href="https://www.tinkercad.com/things/1ANzzIBFRrS">Live Project</a>
+  # Project Description
+  <p>This is the Project in which we can simulate how the Arduino UNO along with the arrangement of the PIR Sensor, Potentiometer & LCD Monitor can work as the Social Distancing Tracker. The main working principle of this device is to detect the distance from the PIR Sensor if some violation is there means the user didn't manage the distance from others then Arduino will notify by taking input from the sensor and the same command driven by the controller and Buzzer will inform the user</p>
+  
+   <a href="https://www.tinkercad.com/things/1ANzzIBFRrS">Sow Live Project</a>
   
   # Vide Link of Project
   <a href="https://bit.ly/3Qupnsj">Show Project Demonstration</a>
